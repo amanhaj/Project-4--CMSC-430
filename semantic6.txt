@@ -1,0 +1,6 @@
+-- Undeclared Local
+
+function main returns integer;
+begin
+    2 * b + 3;
+end;
